@@ -1,0 +1,12 @@
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\EstruturasDeRepeticao\For\For\Exercicio06\bin\Debug\netcoreapp3.1\Exercicio06.exe
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\EstruturasDeRepeticao\For\For\Exercicio06\bin\Debug\netcoreapp3.1\Exercicio06.deps.json
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\EstruturasDeRepeticao\For\For\Exercicio06\bin\Debug\netcoreapp3.1\Exercicio06.runtimeconfig.json
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\EstruturasDeRepeticao\For\For\Exercicio06\bin\Debug\netcoreapp3.1\Exercicio06.runtimeconfig.dev.json
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\EstruturasDeRepeticao\For\For\Exercicio06\bin\Debug\netcoreapp3.1\Exercicio06.dll
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\EstruturasDeRepeticao\For\For\Exercicio06\bin\Debug\netcoreapp3.1\Exercicio06.pdb
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\EstruturasDeRepeticao\For\For\Exercicio06\obj\Debug\netcoreapp3.1\Exercicio06.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\EstruturasDeRepeticao\For\For\Exercicio06\obj\Debug\netcoreapp3.1\Exercicio06.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\EstruturasDeRepeticao\For\For\Exercicio06\obj\Debug\netcoreapp3.1\Exercicio06.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\EstruturasDeRepeticao\For\For\Exercicio06\obj\Debug\netcoreapp3.1\Exercicio06.dll
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\EstruturasDeRepeticao\For\For\Exercicio06\obj\Debug\netcoreapp3.1\Exercicio06.pdb
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\EstruturasDeRepeticao\For\For\Exercicio06\obj\Debug\netcoreapp3.1\Exercicio06.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\If-ElseIf\EstruturasCondicionais\Exercicio07\bin\Debug\netcoreapp3.1\Exercicio07.exe
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\If-ElseIf\EstruturasCondicionais\Exercicio07\bin\Debug\netcoreapp3.1\Exercicio07.deps.json
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\If-ElseIf\EstruturasCondicionais\Exercicio07\bin\Debug\netcoreapp3.1\Exercicio07.runtimeconfig.json
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\If-ElseIf\EstruturasCondicionais\Exercicio07\bin\Debug\netcoreapp3.1\Exercicio07.runtimeconfig.dev.json
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\If-ElseIf\EstruturasCondicionais\Exercicio07\bin\Debug\netcoreapp3.1\Exercicio07.dll
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\If-ElseIf\EstruturasCondicionais\Exercicio07\bin\Debug\netcoreapp3.1\Exercicio07.pdb
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\If-ElseIf\EstruturasCondicionais\Exercicio07\obj\Debug\netcoreapp3.1\Exercicio07.AssemblyInfoInputs.cache
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\If-ElseIf\EstruturasCondicionais\Exercicio07\obj\Debug\netcoreapp3.1\Exercicio07.AssemblyInfo.cs
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\If-ElseIf\EstruturasCondicionais\Exercicio07\obj\Debug\netcoreapp3.1\Exercicio07.csproj.CoreCompileInputs.cache
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\If-ElseIf\EstruturasCondicionais\Exercicio07\obj\Debug\netcoreapp3.1\Exercicio07.dll
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\If-ElseIf\EstruturasCondicionais\Exercicio07\obj\Debug\netcoreapp3.1\Exercicio07.pdb
+C:\Users\Interfocus\Desktop\Breno\CursoC#-Exercicios\If-ElseIf\EstruturasCondicionais\Exercicio07\obj\Debug\netcoreapp3.1\Exercicio07.genruntimeconfig.cache
